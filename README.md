@@ -13,4 +13,4 @@ Ye mera ek purana web development project hai jo maine HTML, CSS aur JavaScript 
 * **JavaScript** - Functionality ke liye
 
 ### Kaise Dekhein?
-Aap is project ko live dekh sakte hain yahan: [github.com/Rida786110/code-and-crumbs-final-project.git]
+Aap is project ko live dekh sakte hain yahan: [ https://rida786110.github.io/code-and-crumbs-final-project]
